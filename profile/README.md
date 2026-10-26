@@ -6,7 +6,7 @@ Mods and tools for [The Sims 4](https://www.ea.com/games/the-sims/the-sims-4) (M
 
 | Mod | Repository | What it does |
 |---|---|---|
-| Mod loader | `sims4-mod-loader` | The script extender of the game. It loads the DLL mods, checks them, and gives the in-game menu bar, the mod settings and a native module for script mods. |
+| Mod loader | `sims4-mod-loader` | The script extender of the game. It loads the DLL mods and also provides the in-game menu bar, the mod settings and a native module for script mods. |
 
 ## Templates
 
@@ -17,7 +17,7 @@ Mods and tools for [The Sims 4](https://www.ea.com/games/the-sims/the-sims-4) (M
 ## Install
 
 1. Install the mod loader with its install tool.
-2. Put the DLL mods in the folder of DLL mods of the mod loader, and the script mods (`.ts4script`) and packages in
+2. Put the DLL mods and the script mods (`.ts4script`) and packages in
    `Documents\Electronic Arts\The Sims 4\Mods`.
 3. Turn on mods and script mods in the game options, then start the game.
 
